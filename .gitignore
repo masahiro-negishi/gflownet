@@ -15,3 +15,7 @@ playground/
 !docs/requirements-docs.txt
 .DS_Store
 docs/_build/
+
+.mypy_cache/
+logs/data/
+sbatch/*.sh
