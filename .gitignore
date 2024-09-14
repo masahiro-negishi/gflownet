@@ -19,3 +19,7 @@ docs/_build/
 .mypy_cache/
 logs/data/
 sbatch/*.sh
+.pytest_cache/
+logs/
+*.err
+*.out
