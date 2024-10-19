@@ -9,6 +9,7 @@ release: 0.3.4
 ckpt_path:
   mila: /network/scratch/s/schmidtv/crystals-proxys/proxy-ckpts/
   victor: ~/Documents/Github/ActiveLearningMaterials/checkpoints/980065c0/checkpoints-3ff648a2
+  dragon: /ibex/user/negishm/crystal-gfn/proxies/checkpoints/33639ab7/checkpoints-6b695a2f
 rescale_outputs: true
 
 # Reward function: exponential by default
